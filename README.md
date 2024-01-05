@@ -24,9 +24,10 @@
 Feel free to reach out! I'm always open to interesting conversations and collaboration.
 
 - 📧 Email: [ritikakaur789@gmail.com](mailto:ritikakaur789@gmail.com)
-
+  
 ## 🤝 Support my work and help it thrive
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ritikakaurr) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritikakaurr)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
