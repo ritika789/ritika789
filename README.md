@@ -1,10 +1,10 @@
-### 👋 Hello, World! I'm Ritika
+# 👋 Hello, World! I'm Ritika
 
 <!--
 **ritika789/ritika789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-# 💫 About Me:
+### 💫 About Me:
 I'm a passionate MERN stack developer <br><br>🚀 Currently honing my skills in MongoDB, Express, React, and Node.js to build robust and dynamic web applications.<br><br>💡 Learning Web 3.0 technologies, aiming to bring decentralization and innovation to the Web.<br><br>🔍 Always looking for new opportunities to contribute to the tech community and collaborate on exciting projects.<br><br>⚙️ Let's connect, learn, and build together to shape the future of the web!<br>
 
 
@@ -19,9 +19,13 @@ I'm a passionate MERN stack developer <br><br>🚀 Currently honing my skills in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritika789&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ritika789&icon=0&color=1)](https://visitcount.itsvg.in)
+## 📬 Connect with Me
 
-  ##  Support my work and help it thrive
+Feel free to reach out! I'm always open to interesting conversations and collaboration.
+
+- 📧 Email: [ritikakaur789@gmail.com](mailto:ritikakaur789@gmail.com)
+
+  ## 🤝 Support my work and help it thrive
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ritikakaurr) 
 
   
