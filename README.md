@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritika789&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika789&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika789&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="39%">
 </p>
 
 
